@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jhelder2/introNode/issues"
   },
-  "homepage": "https://github.com/jhelder2/introNode#readme"
+  "homepage": "https://github.com/jhelder2/introNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
