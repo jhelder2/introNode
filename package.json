@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jhelder2/introNode#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "hbs": "^4.0.5"
+    "hbs": "^4.2.0"
   }
 }
